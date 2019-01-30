@@ -26,6 +26,7 @@ array.push(element)
 return array
 }
 
-function accessElementInArray(array, element){}
-return ("array[0]")
+function accessElementInArray(array,index){
+
+  return array[2]
 }
