@@ -5,7 +5,7 @@ var chocolateBars = [
   "skittles"
 ]
 
-const addElementToBeginningOfArray = [ "array", ...constant]
+const addElementToBeginningOfArray = [ "array", ...element]
 
 
 var destructivelyAddElementToBeginningOfArray
