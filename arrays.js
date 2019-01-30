@@ -20,3 +20,8 @@ function addElementToEndOfArray(array,element) {
   var new_array = [array, element[0]]
   return new_array
 }
+
+function destructivelyAddElementToEndOfArray(array,element){
+array.push(element)
+return array
+}
