@@ -5,6 +5,6 @@ var chocolateBars = [
   "skittles"
 ]
 
-var addElementToBeginningOfArray = [ "array", ...element]
+var addElementToBeginningOfArray = [ "twix", ...chocolateBars]
 
 var destructivelyAddElementToBeginningOfArray
